@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "cwd": "c:\\Users\\QC-Lab\\c",
       "environment": [],
-      "program": "c:\\MinGW\\bin\\gcc.exe",
+      "program": "C:\\MinGW\\bin\\${workspaceFolder}",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
